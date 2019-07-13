@@ -1,2 +1,2 @@
-# Hero
-just a repository
+# Hero hero
+just a repository,study!
